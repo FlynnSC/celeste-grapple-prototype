@@ -1,0 +1,2 @@
+grapple_draw(grapple);
+

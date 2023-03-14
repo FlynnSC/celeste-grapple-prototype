@@ -1,0 +1,1 @@
+if (!instance_exists(player)) player = instance_find(oPlayer, 0);
